@@ -44,6 +44,7 @@ Calcula Potência Disponível no Hub = (Limite Concessionária + Solar) - Consum
         │
         ▼
 [Envio de Telemetria p/ Plataforma SEMS] ──► [Alimentação Contextual do Chatbot ChargeOps]
+
 ⚡ Princípios de Energias Renováveis e Sustentabilidade (SERS)
 A solução fundamenta-se na orquestração de um futuro sustentável através de três pilares práticos:
 
