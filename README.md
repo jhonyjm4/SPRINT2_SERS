@@ -83,11 +83,4 @@ O sistema iniciará a simulação dinâmica simulando a telemetria IoT. O algori
 
 Após os ciclos, um relatório tabular estruturado em DataFrame (representando a Plataforma SEMS) será renderizado na tela, seguido pela resposta em tempo real formulada pela árvore de pensamento da IA ChargeOps.
 
-📊 Gestão do Projeto (Metodologia Kanban)
-Para assegurar o cumprimento dos prazos e a clara divisão de protagonismo na equipe, o projeto foi gerenciado através de um quadro Kanban estruturado de forma transparente:
-
-Acesso ao Quadro Kanban: [INSIRA AQUI O LINK DO SEU KANBAN DO TRELLO/JIRA/GITHUB PROJECTS]
-
-Metodologia: As tarefas foram divididas nas colunas tradicionais Backlog, A Fazer, Em Desenvolvimento, Bloqueado e Concluído, com atribuição explícita de responsáveis e sub-tarefas com fundamentação técnica para cada membro da equipe 4.
-
 Este projeto faz parte das entregas obrigatórias da Sprint 2 da FIAP em parceria com o GoodWe Challenge 2026.
